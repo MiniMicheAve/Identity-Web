@@ -1,0 +1,47 @@
+.highlighted {
+    background-color:rgba(97, 75, 46, 0.726);
+}
+.box2 {
+    background-color: rgba(97, 75, 46, 0.726);
+    color: #fff;
+  }
+
+  .form-box {
+    display: inline-block;
+    text-align: left;
+    background-color: rgba(97, 75, 46, 0.507);
+    padding: 20px;
+    border: 1px solid  rgb(130, 160, 123);
+    border-radius: 5px;
+  }
+
+  button {
+    float: right;
+    background-color: rgb(63, 39, 25);
+    color: rgb(130, 160, 123);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  .p1 {
+    font-family:papyrus;
+    font-size: medium;
+  }
+
+  .form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .form-box {
+    width: 300px;
+  }
+  input[type="text"] {
+    width: 95%;
+
+
+  }
